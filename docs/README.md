@@ -505,7 +505,7 @@ LIMIT 10;
 
 ### **Dashboard Setup**
 
-1. Open [Looker Studio](https://lookerstudio.google.com/)
+1. Open [Looker Studio](https://lookerstudio.google.com/reporting/bfb7b6d5-72f0-4974-a378-9c11f7b6a0aa)
 2. Create **Blank Report**
 3. **Add Data Source:**
    - Click **Create New Data Source**
