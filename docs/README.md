@@ -568,7 +568,104 @@ Add these components to your dashboard:
 
 ---
 
-## 🐛 Troubleshooting
+## � Project Showcase
+
+### **BigQuery Table Preview**
+
+After loading data into BigQuery, you should see your table with all columns and rows:
+
+```
+📊 Table: sales-data-analysis-477907.retail_ds.sales
+├─ Rows: ~100 (your dataset size)
+├─ Columns: 19
+├─ Size: ~XX KB
+└─ Last Modified: [Your timestamp]
+```
+
+**Key Columns Visible:**
+- OrderID, OrderDate, CustomerName
+- Region, State, City
+- Category, SubCategory, ProductName
+- Quantity, UnitPrice, Sales, Discount, Profit, ProfitMargin
+- Year, Month, OrderYearMonth
+
+### **BigQuery Query Results**
+
+Example output from core KPI query:
+
+```
+┌─────────────┬──────────────┬──────────────────────┐
+│ total_sales │ total_profit │ avg_profit_margin    │
+├─────────────┼──────────────┼──────────────────────┤
+│ $XXX,XXX.XX │ $XX,XXX.XX   │ 0.XXXX (XX.XX%)      │
+└─────────────┴──────────────┴──────────────────────┘
+```
+
+### **Looker Studio Dashboard**
+
+The interactive dashboard includes:
+
+📊 **Dashboard Overview:**
+- **Top Section:** 3 Scorecards (Total Sales, Total Profit, Avg Profit Margin)
+- **Middle Section:** Monthly trend line chart showing sales over time
+- **Right Section:** Regional performance bar chart
+- **Bottom Section:** Top products data table
+- **Top Filters:** Category & Region dropdowns for drill-down analysis
+
+**Visual Elements:**
+- Light gray background (#F5F5F5)
+- White cards with subtle shadows
+- Blue/green color scheme for consistency
+- Interactive filters for dynamic exploration
+- Title: "Retail Sales Dashboard — Prabhu Charan"
+
+### **Add Your Screenshots**
+
+To showcase your project results, add screenshots to the `docs/screenshots/` folder:
+
+```bash
+# Screenshots to add:
+docs/screenshots/
+├── 01_bigquery_table.png          # Table preview after data load
+├── 02_bigquery_kpi_query.png      # KPI validation query results
+├── 03_bigquery_monthly_trend.png  # Monthly sales trend query
+├── 04_bigquery_region_perf.png    # Regional performance query
+├── 05_looker_dashboard_full.png   # Complete dashboard view
+├── 06_looker_scorecards.png       # Top KPI scorecards
+├── 07_looker_monthly_chart.png    # Monthly sales trend visualization
+├── 08_looker_region_chart.png     # Region performance bar chart
+└── 09_looker_products_table.png   # Top products data table
+```
+
+**How to Take Screenshots:**
+
+1. **BigQuery Table:**
+   - Go to BigQuery Console → Dataset `retail_ds` → Table `sales`
+   - Click **Preview** tab
+   - Take screenshot showing columns and sample rows
+
+2. **BigQuery Query Results:**
+   - Run the KPI query in BigQuery Editor
+   - Click **Results** after execution
+   - Screenshot the results table
+
+3. **Looker Studio Dashboard:**
+   - Open your dashboard in Looker Studio
+   - Take full-page screenshot (F12 Developer Tools recommended)
+   - Take individual component screenshots for key visuals
+
+**To embed screenshots in README:**
+
+Once you have screenshots, add them with markdown syntax:
+
+```markdown
+![BigQuery Table Preview](./screenshots/01_bigquery_table.png)
+![Looker Dashboard](./screenshots/05_looker_dashboard_full.png)
+```
+
+---
+
+## �🐛 Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
