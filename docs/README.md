@@ -620,47 +620,11 @@ The interactive dashboard includes:
 - Title: "Retail Sales Dashboard — Prabhu Charan"
 
 ### **Add Your Screenshots**
-
-To showcase your project results, add screenshots to the `docs/screenshots/` folder:
-
-```bash
-# Screenshots to add:
-screenshots/
-├── 01_bigquery_table.png          # Table preview after data load
-├── 02_bigquery_kpi_query.png      # KPI validation query results
-├── 03_bigquery_monthly_trend.png  # Monthly sales trend query
-├── 04_bigquery_region_perf.png    # Regional performance query
-├── 05_looker_dashboard_full.png   # Complete dashboard view
-├── 06_looker_scorecards.png       # Top KPI scorecards
-├── 07_looker_monthly_chart.png    # Monthly sales trend visualization
-├── 08_looker_region_chart.png     # Region performance bar chart
-└── 09_looker_products_table.png   # Top products data table
-```
-
-**How to Take Screenshots:**
-
-1. **BigQuery Table:**
-   - Go to BigQuery Console → Dataset `retail_ds` → Table `sales`
-   - Click **Preview** tab
-   - Take screenshot showing columns and sample rows
-
-2. **BigQuery Query Results:**
-   - Run the KPI query in BigQuery Editor
-   - Click **Results** after execution
-   - Screenshot the results table
-
-3. **Looker Studio Dashboard:**
-   - Open your dashboard in Looker Studio
-   - Take full-page screenshot (F12 Developer Tools recommended)
-   - Take individual component screenshots for key visuals
-
-**To embed screenshots in README:**
-
-Once you have screenshots, add them with markdown syntax:
-
 ```markdown
-![BigQuery Table Preview](./screenshots/01_bigquery_table.png)
-![Looker Dashboard](./screenshots/05_looker_dashboard_full.png)
+![BigQuery Table Preview](./screenshots/1.png)
+![Looker Dashboard](./screenshots/2.png)
+![Product Names](./screenshots/3.png)\
+![Sales](./screenshots/4.png)
 ```
 
 ---
