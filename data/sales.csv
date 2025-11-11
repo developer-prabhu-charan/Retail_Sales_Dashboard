@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerID,CustomerName,Region,State,City,Category,SubCategory,ProductID,ProductName,Quantity,UnitPrice,Sales,Discount,Profit,ProfitMargin,OrderPriority,ShipMode
+ORD0000001,2023-10-20,CUST0028,Mike Taylor,West,CA,Los Angeles,Technology,Phones,P0077,"Phones ""Lite, V2""",2,299.50,599.00,0.10,77.87,0.1300,Medium,Standard Class
+ORD0000002,2022-03-15,CUST0011,Sara Johnson,East,NY,New York,Furniture,Chairs,P0032,Ergo Chair Pro,1,450.99,450.99,0.00,99.22,0.2200,Medium,Second Class
+ORD0000003,2024-07-01,CUST0045,Tom Lee,Central,IL,Chicago,Office Supplies,Paper,P0101,A4 Paper Pack,15,25.00,375.00,0.00,28.13,0.0750,High,First Class
+ORD0000004,2023-11-30,CUST0002,Jen Davis,South,FL,Miami,Furniture,Tables,P0015,Conference Table,1,1200.00,1200.00,0.20,96.00,0.0800,Low,Standard Class
+ORD0000005,2022-09-05,CUST0033,Emily Wilson,West,WA,Seattle,Office Supplies,Binders,P0056,3-Ring Binder,10,15.50,155.00,0.00,12.40,0.0800,Medium,Standard Class
+ORD0000006,2024-01-12,CUST0019,David Miller,East,MA,Boston,Technology,Accessories,P0091,USB-C Hub Plus,5,59.90,299.50,0.00,50.92,0.1700,High,Second Class
+ORD0000007,2023-04-22,CUST0007,Chris Brown,Central,TX,Houston,Furniture,Bookcases,P0004,Oak Bookcase,1,320.00,320.00,0.10,38.40,0.1200,Low,Standard Class
+ORD0000008,2022-12-01,CUST0045,Tom Lee,Central,IL,Chicago,Technology,Computers,P0022,Laptop Pro,1,1499.00,1499.00,0.00,254.83,0.1700,Critical,Same Day
+ORD0000009,2024-10-05,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Writing,P0130,Gel Pens (24pk),8,19.99,159.92,0.00,11.19,0.0700,Medium,Second Class
+ORD0000010,2023-02-18,CUST0028,Mike Taylor,West,CA,Los Angeles,Furniture,Furnishings,P0065,Desk Lamp,3,65.00,195.00,0.00,35.10,0.1800,Low,Standard Class
+ORD0000011,2022-08-14,CUST0002,Jen Davis,South,FL,Miami,Office Supplies,Storage,P0088,Plastic Bins,6,30.00,180.00,0.00,16.20,0.0900,Medium,Standard Class
+ORD0000012,2024-05-30,CUST0019,David Miller,East,MA,Boston,Office Supplies,Paper,P0102,Legal Pad,20,8.00,160.00,0.10,8.00,0.0500,Medium,Second Class
+ORD0000013,2023-01-05,CUST0033,Emily Wilson,West,WA,Seattle,Technology,Accessories,P0092,Wireless Mouse,4,35.00,140.00,0.00,29.40,0.2100,High,First Class
+ORD0000014,2022-06-11,CUST0007,Chris Brown,Central,TX,Houston,Furniture,Chairs,P0033,Executive Chair,2,600.00,1200.00,0.30,48.00,0.0400,High,First Class
+ORD0000015,2024-09-19,CUST0028,Mike Taylor,West,CA,Los Angeles,Technology,Machines,P0110,3D Printer,1,750.00,750.00,0.00,142.50,0.1900,Medium,Standard Class
+ORD0000016,2023-07-25,CUST0045,Tom Lee,Central,IL,Chicago,Furniture,Tables,P0016,Coffee Table,1,250.00,250.00,0.00,45.00,0.1800,Medium,Standard Class
+ORD0000017,2022-04-02,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Binders,P0057,Presentation Binder,12,10.00,120.00,0.00,10.80,0.0900,Medium,Standard Class
+ORD0000018,2024-12-20,CUST0002,Jen Davis,South,FL,Miami,Technology,Phones,P0078,Smartphone Eco,3,199.00,597.00,0.10,77.61,0.1300,Critical,First Class
+ORD0000019,2023-08-08,CUST0033,Emily Wilson,West,WA,Seattle,Furniture,Furnishings,P0066,Wall Clock,2,55.00,110.00,0.00,23.10,0.2100,Low,Standard Class
+ORD0000020,2022-10-14,CUST0019,David Miller,East,MA,Boston,Office Supplies,Writing,P0131,Whiteboard Markers,10,12.50,125.00,0.00,13.75,0.1100,Medium,Second Class
+ORD0000021,2024-03-01,CUST0007,Chris Brown,Central,TX,Houston,Office Supplies,Storage,P0089,File Cabinets,1,180.00,180.00,0.20,9.00,0.0500,High,First Class
+ORD0000022,2023-05-16,CUST0045,Tom Lee,Central,IL,Chicago,Technology,Computers,P0023,Desktop Basic,2,550.00,1100.00,0.00,187.00,0.1700,Medium,Standard Class
+ORD0000023,2022-11-20,CUST0028,Mike Taylor,West,CA,Los Angeles,Furniture,Bookcases,P0005,Metal Shelving,1,150.00,150.00,0.00,33.00,0.2200,Medium,Standard Class
+ORD0000024,2024-08-02,CUST0011,Sara Johnson,East,NY,New York,Technology,Accessories,P0091,USB-C Hub Plus,3,59.90,179.70,0.00,30.55,0.1700,Low,Standard Class
+ORD0000025,2023-03-10,CUST0002,Jen Davis,South,FL,Miami,Office Supplies,Paper,P0101,A4 Paper Pack,10,25.00,250.00,0.00,17.50,0.0700,Medium,Second Class
+ORD0000026,2022-01-25,CUST0033,Emily Wilson,West,WA,Seattle,Furniture,Chairs,P0032,Ergo Chair Pro,3,450.99,1352.97,0.10,202.95,0.1500,Medium,Standard Class
+ORD0000027,2024-06-15,CUST0019,David Miller,East,MA,Boston,Technology,Phones,P0077,"Phones ""Lite, V2""",1,299.50,299.50,0.00,47.92,0.1600,High,Second Class
+ORD0000028,2023-09-28,CUST0007,Chris Brown,Central,TX,Houston,Office Supplies,Binders,P0056,3-Ring Binder,20,15.50,310.00,0.20,12.40,0.0400,Medium,Standard Class
+ORD0000029,2022-07-19,CUST0045,Tom Lee,Central,IL,Chicago,Furniture,Furnishings,P0065,Desk Lamp,2,65.00,130.00,0.00,23.40,0.1800,Low,Standard Class
+ORD0000030,2024-11-10,CUST0028,Mike Taylor,West,CA,Los Angeles,Technology,Machines,P0111,Laminator,2,120.00,240.00,0.00,40.80,0.1700,Medium,Standard Class
+ORD0000031,2023-04-05,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Writing,P0130,Gel Pens (24pk),5,19.99,99.95,0.00,8.00,0.0800,Medium,Standard Class
+ORD0000032,2022-02-08,CUST0002,Jen Davis,South,FL,Miami,Furniture,Tables,P0015,Conference Table,1,1200.00,1200.00,0.20,96.00,0.0800,Critical,Same Day
+ORD0000033,2024-02-14,CUST0033,Emily Wilson,West,WA,Seattle,Technology,Computers,P0022,Laptop Pro,1,1499.00,1499.00,0.00,269.82,0.1800,High,First Class
+ORD0000034,2023-10-01,CUST0019,David Miller,East,MA,Boston,Office Supplies,Storage,P0088,Plastic Bins,8,30.00,240.00,0.00,24.00,0.1000,Medium,Standard Class
+ORD0000035,2022-05-20,CUST0007,Chris Brown,Central,TX,Houston,Furniture,Bookcases,P0004,Oak Bookcase,2,320.00,640.00,0.10,76.80,0.1200,Low,Standard Class
+PROD000036,2024-08-18,CUST0045,Tom Lee,Central,IL,Chicago,Technology,Accessories,P0092,Wireless Mouse,6,35.00,210.00,0.00,44.10,0.2100,Medium,Second Class
+ORD0000037,2023-12-25,CUST0028,Mike Taylor,West,CA,Los Angeles,Office Supplies,Paper,P0102,Legal Pad,15,8.00,120.00,0.00,9.60,0.0800,Low,Standard Class
+ORD0000038,2022-11-02,CUST0011,Sara Johnson,East,NY,New York,Furniture,Chairs,P0033,Executive Chair,1,600.00,600.00,0.00,108.00,0.1800,Medium,Second Class
+ORD0000039,2024-04-10,CUST0002,Jen Davis,South,FL,Miami,Technology,Phones,P0078,Smartphone Eco,1,199.00,199.00,0.00,31.84,0.1600,Medium,Standard Class
+ORD0000040,2023-01-29,CUST0033,Emily Wilson,West,WA,Seattle,Office Supplies,Binders,P0057,Presentation Binder,10,10.00,100.00,0.00,9.00,0.0900,Low,Standard Class
+ORD0000041,2022-09-22,CUST0019,David Miller,East,MA,Boston,Furniture,Furnishings,P0066,Wall Clock,3,55.00,165.00,0.00,34.65,0.2100,Medium,Standard Class
+ORD0000042,2024-07-08,CUST0007,Chris Brown,Central,TX,Houston,Technology,Machines,P0110,3D Printer,1,750.00,750.00,0.20,75.00,0.1000,Low,Standard Class
+ORD0000043,2023-06-12,CUST0045,Tom Lee,Central,IL,Chicago,Office Supplies,Writing,P0131,Whiteboard Markers,12,12.50,150.00,0.00,16.50,0.1100,Medium,Standard Class
+ORD0000044,2022-12-18,CUST0028,Mike Taylor,West,CA,Los Angeles,Furniture,Tables,P0016,Coffee Table,1,250.00,250.00,0.00,45.00,0.1800,Medium,Standard Class
+ORD0000045,2024-11-01,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Storage,P0089,File Cabinets,1,180.00,180.00,0.00,12.60,0.0700,High,First Class
+ORD0000046,2023-02-04,CUST0002,Jen Davis,South,FL,Miami,Technology,Computers,P0023,Desktop Basic,1,550.00,550.00,0.00,93.50,0.1700,Medium,Standard Class
+ORD0000047,2022-08-28,CUST0033,Emily Wilson,West,WA,Seattle,Furniture,Bookcases,P0005,Metal Shelving,2,150.00,300.00,0.10,36.00,0.1200,Low,Standard Class
+ORD0000048,2024-05-11,CUST0019,David Miller,East,MA,Boston,Technology,Accessories,P0091,USB-C Hub Plus,2,59.90,119.80,0.00,20.37,0.1700,Medium,Standard Class
+ORD0000049,2023-11-15,CUST0007,Chris Brown,Central,TX,Houston,Office Supplies,Paper,P0101,A4 Paper Pack,18,25.00,450.00,0.20,13.50,0.0300,Medium,Standard Class
+ORD0000050,2022-06-01,CUST0045,Tom Lee,Central,IL,Chicago,Furniture,Chairs,P0032,Ergo Chair Pro,1,450.99,450.99,0.00,99.22,0.2200,Medium,Second Class
+ORD0000051,2024-10-25,CUST0028,Mike Taylor,West,CA,Los Angeles,Technology,Phones,P0077,"Phones ""Lite, V2""",3,299.50,898.50,0.10,116.81,0.1300,High,Second Class
+ORD0000052,2023-01-10,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Binders,P0056,3-Ring Binder,15,15.50,232.50,0.10,13.95,0.0600,Medium,Standard Class
+ORD0000053,2022-09-14,CUST0002,Jen Davis,South,FL,Miami,Furniture,Furnishings,P0065,Desk Lamp,1,65.00,65.00,0.00,11.70,0.1800,Low,Standard Class
+ORD0000054,2024-07-29,CUST0033,Emily Wilson,West,WA,Seattle,Technology,Machines,P0111,Laminator,1,120.00,120.00,0.00,20.40,0.1700,Medium,Standard Class
+ORD0000055,2023-08-22,CUST0019,David Miller,East,MA,Boston,Office Supplies,Writing,P0130,Gel Pens (24pk),6,19.99,119.94,0.00,9.59,0.0800,Low,Standard Class
+ORD0000056,2022-04-18,CUST0007,Chris Brown,Central,TX,Houston,Furniture,Tables,P0015,Conference Table,1,1200.00,1200.00,0.20,96.00,0.0800,Medium,Standard Class
+ORD0000057,2024-03-05,CUST0045,Tom Lee,Central,IL,Chicago,Technology,Computers,P0022,Laptop Pro,1,1499.00,1499.00,0.00,254.83,0.1700,Medium,Second Class
+ORD0000058,2023-05-28,CUST0028,Mike Taylor,West,CA,Los Angeles,Office Supplies,Storage,P0088,Plastic Bins,10,30.00,300.00,0.00,30.00,0.1000,Medium,Standard Class
+ORD0000059,2022-11-25,CUST0011,Sara Johnson,East,NY,New York,Furniture,Bookcases,P0004,Oak Bookcase,1,320.00,320.00,0.00,57.60,0.1800,Low,Standard Class
+ORD0000060,2024-09-08,CUST0002,Jen Davis,South,FL,Miami,Technology,Accessories,P0092,Wireless Mouse,5,35.00,175.00,0.00,36.75,0.2100,High,First Class
+ORD0000061,2023-12-11,CUST0033,Emily Wilson,West,WA,Seattle,Office Supplies,Paper,P0102,Legal Pad,25,8.00,200.00,0.10,12.00,0.0600,Medium,Standard Class
+ORD0000062,2022-07-04,CUST0019,David Miller,East,MA,Boston,Furniture,Chairs,P0033,Executive Chair,2,600.00,1200.00,0.00,216.00,0.1800,Medium,Second Class
+ORD0000063,2024-01-19,CUST0007,Chris Brown,Central,TX,Houston,Technology,Phones,P0078,Smartphone Eco,2,199.00,398.00,0.10,51.74,0.1300,Low,Standard Class
+ORD0000064,2023-10-02,CUST0045,Tom Lee,Central,IL,Chicago,Office Supplies,Binders,P0057,Presentation Binder,8,10.00,80.00,0.00,7.20,0.0900,Medium,Standard Class
+ORD0000065,2022-05-09,CUST0028,Mike Taylor,West,CA,Los Angeles,Furniture,Furnishings,P0066,Wall Clock,1,55.00,55.00,0.00,11.55,0.2100,Medium,Standard Class
+ORD0000066,2024-08-25,CUST0011,Sara Johnson,East,NY,New York,Technology,Machines,P0110,3D Printer,1,750.00,750.00,0.00,142.50,0.1900,Critical,First Class
+ORD0000067,2023-03-21,CUST0002,Jen Davis,South,FL,Miami,Office Supplies,Writing,P0131,Whiteboard Markers,15,12.50,187.50,0.00,20.62,0.1100,Medium,Second Class
+ORD0000068,2022-10-28,CUST0033,Emily Wilson,West,WA,Seattle,Furniture,Tables,P0016,Coffee Table,1,250.00,250.00,0.00,45.00,0.1800,Low,Standard Class
+ORD0000069,2024-06-11,CUST0019,David Miller,East,MA,Boston,Technology,Computers,P0023,Desktop Basic,2,550.00,1100.00,0.00,187.00,0.1700,High,Second Class
+ORD0000070,2023-09-15,CUST0007,Chris Brown,Central,TX,Houston,Office Supplies,Storage,P0089,File Cabinets,1,180.00,180.00,0.20,9.00,0.0500,Medium,Standard Class
+ORD0000071,2022-02-11,CUST0045,Tom Lee,Central,IL,Chicago,Furniture,Bookcases,P0005,Metal Shelving,3,150.00,450.00,0.20,36.00,0.0800,Medium,Standard Class
+ORD0000072,2024-04-28,CUST0028,Mike Taylor,West,CA,Los Angeles,Technology,Accessories,P0091,USB-C Hub Plus,1,59.90,59.90,0.00,10.18,0.1700,Medium,Standard Class
+ORD0000073,2023-01-01,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Paper,P0101,A4 Paper Pack,12,25.00,300.00,0.00,21.00,0.0700,High,First Class
+ORD0000074,2022-08-19,CUST0002,Jen Davis,South,FL,Miami,Furniture,Chairs,P0032,Ergo Chair Pro,1,450.99,450.99,0.00,99.22,0.2200,Medium,Standard Class
+ORD0000075,2024-12-24,CUST0033,Emily Wilson,West,WA,Seattle,Technology,Phones,P0077,"Phones ""Lite, V2""",2,299.50,599.00,0.10,77.87,0.1300,Critical,Same Day
+ORD0000076,2023-07-10,CUST0019,David Miller,East,MA,Boston,Office Supplies,Binders,P0056,3-Ring Binder,10,15.50,155.00,0.00,12.40,0.0800,Low,Standard Class
+ORD0000077,2022-03-28,CUST0007,Chris Brown,Central,TX,Houston,Furniture,Furnishings,P0065,Desk Lamp,3,65.00,195.00,0.00,35.10,0.1800,Medium,Second Class
+ORD0000078,2024-02-02,CUST0045,Tom Lee,Central,IL,Chicago,Technology,Machines,P0111,Laminator,1,120.00,120.00,0.00,20.40,0.1700,Medium,Standard Class
+ORD0000079,2023-06-25,CUST0028,Mike Taylor,West,CA,Los Angeles,Office Supplies,Writing,P0130,Gel Pens (24pk),7,19.99,139.93,0.00,11.19,0.0800,Medium,Standard Class
+ORD0000080,2022-12-05,CUST0011,Sara Johnson,East,NY,New York,Furniture,Tables,P0015,Conference Table,1,1200.00,1200.00,0.20,96.00,0.0800,Medium,Standard Class
+ORD0000081,2024-10-10,CUST0002,Jen Davis,South,FL,Miami,Technology,Computers,P0022,Laptop Pro,1,1499.00,1499.00,0.00,269.82,0.1800,High,Second Class
+ORD0000082,2023-04-14,CUST0033,Emily Wilson,West,WA,Seattle,Office Supplies,Storage,P0088,Plastic Bins,12,30.00,360.00,0.10,21.60,0.0600,Medium,Standard Class
+ORD0000083,2022-05-01,CUST0019,David Miller,East,MA,Boston,Furniture,Bookcases,P0004,Oak Bookcase,1,320.00,320.00,0.00,57.60,0.1800,Low,Standard Class
+ORD0000084,2024-01-26,CUST0007,Chris Brown,Central,TX,Houston,Technology,Accessories,P0092,Wireless Mouse,3,35.00,105.00,0.00,22.05,0.2100,Medium,Standard Class
+ORD0000085,2023-08-30,CUST0045,Tom Lee,Central,IL,Chicago,Office Supplies,Paper,P0102,Legal Pad,30,8.00,240.00,0.20,9.60,0.0400,Low,Standard Class
+ORD0000086,2022-07-22,CUST0028,Mike Taylor,West,CA,Los Angeles,Furniture,Chairs,P0033,Executive Chair,1,600.00,600.00,0.00,108.00,0.1800,Medium,Second Class
+ORD0000087,2024-11-18,CUST0011,Sara Johnson,East,NY,New York,Technology,Phones,P0078,Smartphone Eco,2,199.00,398.00,0.10,51.74,0.1300,Medium,Standard Class
+ORD0000088,2023-02-10,CUST0002,Jen Davis,South,FL,Miami,Office Supplies,Binders,P0057,Presentation Binder,14,10.00,140.00,0.00,12.60,0.0900,Medium,Standard Class
+ORD0000089,2022-09-02,CUST0033,Emily Wilson,West,WA,Seattle,Furniture,Furnishings,P0066,Wall Clock,2,55.00,110.00,0.00,23.10,0.2100,Low,Standard Class
+ORD0000090,2024-06-05,CUST0019,David Miller,East,MA,Boston,Technology,Machines,P0110,3D Printer,1,750.00,750.00,0.20,75.00,0.1000,Medium,Standard Class
+ORD0000091,2023-12-01,CUST0007,Chris Brown,Central,TX,Houston,Office Supplies,Writing,P0131,Whiteboard Markers,20,12.50,250.00,0.10,17.50,0.0700,High,First Class
+ORD0000092,2022-04-11,CUST0045,Tom Lee,Central,IL,Chicago,Furniture,Tables,P0016,Coffee Table,1,250.00,250.00,0.00,45.00,0.1800,Medium,Second Class
+ORD0000093,2024-03-18,CUST0028,Mike Taylor,West,CA,Los Angeles,Technology,Computers,P0023,Desktop Basic,1,550.00,550.00,0.00,93.50,0.1700,Medium,Standard Class
+ORD0000094,2023-11-22,CUST0011,Sara Johnson,East,NY,New York,Office Supplies,Storage,P0089,File Cabinets,2,180.00,360.00,0.20,14.40,0.0400,Low,Standard Class
+ORD0000095,2022-10-08,CUST0002,Jen Davis,South,FL,Miami,Furniture,Bookcases,P0005,Metal Shelving,1,150.00,150.00,0.00,33.00,0.2200,Medium,Standard Class
+ORD0000096,2024-08-11,CUST0033,Emily Wilson,West,WA,Seattle,Technology,Accessories,P0091,USB-C Hub Plus,3,59.90,179.70,0.00,30.55,0.1700,Medium,Second Class
+ORD0000097,2023-05-01,CUST0019,David Miller,East,MA,Boston,Office Supplies,Paper,P0101,A4 Paper Pack,10,25.00,250.00,0.00,17.50,0.0700,Medium,Standard Class
+ORD0000098,2022-01-15,CUST0007,Chris Brown,Central,TX,Houston,Furniture,Chairs,P0032,Ergo Chair Pro,2,450.99,901.98,0.10,135.30,0.1500,High,First Class
+ORD0000099,2024-05-25,CUST0045,Tom Lee,Central,IL,Chicago,Technology,Phones,P0077,"Phones ""Lite, V2""",1,299.50,299.50,0.00,47.92,0.1600,Low,Standard Class
+ORD0000100,2023-09-01,CUST0028,Mike Taylor,West,CA,Los Angeles,Office Supplies,Binders,P0056,3-Ring Binder,18,15.50,279.00,0.20,11.16,0.0400,Medium,Standard Class

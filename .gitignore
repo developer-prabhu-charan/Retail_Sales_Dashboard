@@ -1,0 +1,42 @@
+# Environment & Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Secrets & Credentials
+gcp-key.json
+*.key
+*.pem
+*.json
+!schema.json
+.env
+.env.local
+
+# Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/clean_sales_transformed_bq.csv
+data/clean_sales_transformed.csv
+mysql/
+logs/
