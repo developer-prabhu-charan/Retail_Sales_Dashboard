@@ -619,13 +619,54 @@ The interactive dashboard includes:
 - Interactive filters for dynamic exploration
 - Title: "Retail Sales Dashboard — Prabhu Charan"
 
-### **Add Your Screenshots**
-```markdown
-![BigQuery Table Preview](./screenshots/1.png)
-![Looker Dashboard](./screenshots/2.png)
-![Product Names](./screenshots/3.png)\
-![Sales](./screenshots/4.png)
-```
+---
+
+### **📸 Live Project Screenshots**
+
+#### **Screenshot 1: BigQuery Table Overview**
+![BigQuery Table Preview](../screenshots/1.png)
+
+**What you see:**
+- Raw data loaded in BigQuery
+- All 19 columns displayed
+- Sample rows showing data quality
+- Table schema and metadata
+
+---
+
+#### **Screenshot 2: Looker Studio Dashboard - Full View**
+![Looker Studio Dashboard](../screenshots/2.png)
+
+**What you see:**
+- Complete interactive dashboard
+- KPI scorecards at the top
+- Monthly sales trend visualization
+- Regional performance analysis
+- Top products data table
+- Category & Region filters
+
+---
+
+#### **Screenshot 3: Product Performance Insights**
+![Product Analysis](../screenshots/3.png)
+
+**What you see:**
+- Top-performing products
+- Sales distribution across categories
+- Product-level metrics
+- Comparative analysis
+
+---
+
+#### **Screenshot 4: Sales & Revenue Metrics**
+![Sales Metrics Overview](../screenshots/4.png)
+
+**What you see:**
+- Total sales KPI cards
+- Profit margin analysis
+- Regional breakdown
+- Time-series sales trends
+- Key performance indicators
 
 ---
 
