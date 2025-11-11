@@ -625,7 +625,7 @@ To showcase your project results, add screenshots to the `docs/screenshots/` fol
 
 ```bash
 # Screenshots to add:
-docs/screenshots/
+screenshots/
 ├── 01_bigquery_table.png          # Table preview after data load
 ├── 02_bigquery_kpi_query.png      # KPI validation query results
 ├── 03_bigquery_monthly_trend.png  # Monthly sales trend query
