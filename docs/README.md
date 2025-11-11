@@ -619,6 +619,7 @@ The interactive dashboard includes:
 - Interactive filters for dynamic exploration
 - Title: "Retail Sales Dashboard — Prabhu Charan"
 
+Open [Sales Dashboard](https://lookerstudio.google.com/reporting/bfb7b6d5-72f0-4974-a378-9c11f7b6a0aa)
 ---
 
 ### **📸 Live Project Screenshots**
